@@ -1,1 +1,9 @@
-Hi iam learning python
+##print the strings in nextline
+print("hello world vasabi!!\nrapuru")
+##take the input from command
+print("hello"+input("whastis your name:"))
+##print("hello")
+##variables
+name=input("what is your name\n")
+project=input("what is your project name\n")
+print( "My Team is:", name , project)
